@@ -6,7 +6,7 @@ This directory contains all home assignments, including:
 | -------------- | --------------------------------------------- |
 | Assignment 1   | New Age Robotics Systems (NARS)   23.06.2026  | 
 | Assignment 2   | From Robot to Cobot               23.06.2026  | 
-| Assignment 3   | Components of Robots as a System: Gears       | 
+| Assignment 3   | Components of Robots as a System: Gears  23.06.2026     | 
 | Assignment 4   | Python Recap                      23.06.2026  |
 | Assignment 5   | Difference Between Machine, Robot, and Cobot  |
 | Assignment 6   | Basics and Limitations of Cobots              |
